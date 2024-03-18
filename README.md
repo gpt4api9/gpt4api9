@@ -44,6 +44,10 @@ Authorization:  <控制台秘钥>
 
 那就好好查看[官方文档](https://docs.gpt4api.shop/)吧，里面有详细的API调用说明。
 
+# 如何接入自定义API，通过Action控制GPT?
+
+那就好好查看[官方文档](https://docs.gpt4api.shop/)吧，里面有详细的API调用说明。
+
 
 # 如何支持批量GPT-4等模型调用呢?
 
