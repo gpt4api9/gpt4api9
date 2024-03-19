@@ -2,6 +2,7 @@
 
 - 麻雀官方地址：[https://gpt4api.shop](https://gpt4api.shop)
 - GITHUB地址: [https://github.com/gpt4api9](https://github.com/gpt4api9)
+- Discord地址: [https://discord.com/invite/qYTrxQYTMr](https://discord.com/invite/qYTrxQYTMr)
 
 # 麻雀GPTs-API介绍
 
